@@ -1,0 +1,14 @@
+C:\Users\foapp\Documents\Ticket\bin\Debug\net8.0\Ticket.exe
+C:\Users\foapp\Documents\Ticket\bin\Debug\net8.0\Ticket.deps.json
+C:\Users\foapp\Documents\Ticket\bin\Debug\net8.0\Ticket.runtimeconfig.json
+C:\Users\foapp\Documents\Ticket\bin\Debug\net8.0\Ticket.dll
+C:\Users\foapp\Documents\Ticket\bin\Debug\net8.0\Ticket.pdb
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.AssemblyInfoInputs.cache
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.AssemblyInfo.cs
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.csproj.CoreCompileInputs.cache
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.dll
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\refint\Ticket.dll
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.pdb
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\Ticket.genruntimeconfig.cache
+C:\Users\foapp\Documents\Ticket\obj\Debug\net8.0\ref\Ticket.dll

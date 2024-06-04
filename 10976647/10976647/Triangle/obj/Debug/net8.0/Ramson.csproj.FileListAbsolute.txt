@@ -1,0 +1,14 @@
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.AssemblyInfoInputs.cache
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.AssemblyInfo.cs
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.csproj.CoreCompileInputs.cache
+C:\Users\foapp\Documents\Ramson\bin\Debug\net8.0\Ramson.exe
+C:\Users\foapp\Documents\Ramson\bin\Debug\net8.0\Ramson.deps.json
+C:\Users\foapp\Documents\Ramson\bin\Debug\net8.0\Ramson.runtimeconfig.json
+C:\Users\foapp\Documents\Ramson\bin\Debug\net8.0\Ramson.dll
+C:\Users\foapp\Documents\Ramson\bin\Debug\net8.0\Ramson.pdb
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.dll
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\refint\Ramson.dll
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.pdb
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\Ramson.genruntimeconfig.cache
+C:\Users\foapp\Documents\Ramson\obj\Debug\net8.0\ref\Ramson.dll
